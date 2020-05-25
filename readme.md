@@ -15,7 +15,7 @@
 
 ## Overview
 
-
+ReactJS application, listing of repositories coming from the public GitHub API.
 
 - **[Author](#author)**
 - **[License](#license)**
